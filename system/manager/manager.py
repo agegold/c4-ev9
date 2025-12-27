@@ -78,7 +78,7 @@ def manager_init() -> None:
     "package": "Smart Cruise Control (SCC)",
     "name": "Kia EV9 2025-26",
   }
-  params.put("CarPlatformBundle", ev9t_platform_bundle)
+  params.put("CarPlatformBundle", ev9_platform_bundle)
 
 
   # set dongle id
